@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello👋 프론트엔드 개발자 이유나입니다. 😄
 
 <!--
 **youna99/youna99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+***
+✔️ 일단 해보자하는 실행력과 위험 요소를 미리 대비하는 계획성이 장점입니다.
+✔️ 사부작 만드는것을 좋아합니다.
+✔️ 사용자가 원하는 웹 페이지를 정확히 캐치하는 개발자가 되는 것이 목표입니다.
+
+## 🛠️ Technical Skills
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=Javascipt&logoColor=white"/>
